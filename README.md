@@ -42,6 +42,7 @@ I'm a aspiring Developer with brief experience with Web Development and Data Sci
   </a>
 </p>
 
+<img src="[your-image-url-here](https://imgur.com/a/NAPwV0c)" alt="It ain't much but it's honest work" width="200"/>
 
 ---
 <!-- 
