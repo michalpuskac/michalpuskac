@@ -5,7 +5,7 @@ I'm a aspiring Developer with brief experience with Web Development and Data Sci
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalpuskac&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Experience with
+## Work with
 <p>
   <a href="https://www.python.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
