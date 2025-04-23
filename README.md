@@ -1,6 +1,6 @@
 # Hi 👋! I'm Michal Puškáč
 
-I'm a aspiring Developer with brief experience with Web Development and Data Science
+I'm a aspiring Data engineer and Data Sciencer with brief experience with Web Development
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalpuskac&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
