@@ -1,7 +1,6 @@
-# Hi 👋! I'm Michal Puškáč
+# Hi 👋!
 
-I'm a aspiring Data engineer and Data Sciencer with brief experience with Web Development
-
+<!--
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalpuskac&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,7 +32,7 @@ I'm a aspiring Data engineer and Data Sciencer with brief experience with Web De
   <a href="https://scikit-learn.org/stable/documentation.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/api_docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
 
-</p>
+</p>-->
 
 ## Connect With Me
 <p>
