@@ -9,22 +9,6 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="middle">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=michalpuskac&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalpuskac&layout=compact&theme=dark&hide_border=true"/>
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://github.com/michalpuskac/michalpuskac/blob/main/aintmuch.png" alt="It ain't much but it's honest work" width="200"/>
-      <br/>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="mailto:michalpuskac@gmail.com">
